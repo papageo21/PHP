@@ -2,10 +2,10 @@
 <html lang="el">
 <head>
     <meta charset="UTF-8">
-    <title>thema2</title>
+    <title>check</title>
 </head>
 <body>
-<h1>Proodos thema 2 PHP</h1>
+<h1>check</h1>
 <?php
 
 $grade = 60;
